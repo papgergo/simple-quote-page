@@ -1,0 +1,23 @@
+body{
+    margin: auto;
+    font-family: 'Open Sans', sans-serif;
+    background-image: url("assets/freedom.jpg")
+}
+div{
+    display: block;
+}
+
+.header{
+    margin: 0 auto;
+    width: 90%;
+    font-size: 50px;
+    margin-top: 10%;
+    text-align: center;
+    font-variant: small-caps;
+}
+
+.author{
+    
+    font-size: 22px;
+    font-style: italic;
+}
